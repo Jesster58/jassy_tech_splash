@@ -22,9 +22,7 @@ body {
 }
 #text_block{
   font-family: 'Source Code Pro' !important;
-  padding-left: 2vw;
-  padding-right: 2vw;
-  padding-bottom: 8px;
+  padding: 2vw;
 }
 /* unvisited link */
 a:link {
