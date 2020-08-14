@@ -24,6 +24,7 @@ body {
   font-family: 'Source Code Pro' !important;
   padding-left: 2vw;
   padding-right: 2vw;
+  padding-bottom: 8px;
 }
 /* unvisited link */
 a:link {
